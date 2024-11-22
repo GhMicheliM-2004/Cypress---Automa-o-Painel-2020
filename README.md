@@ -1,2 +1,2 @@
-# Cypress---Automa-o-Painel-2020
+# Cypress---Painel-2020
 Automação Homologação Painel 2020 - Empresa Vivaworks
